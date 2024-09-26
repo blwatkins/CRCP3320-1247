@@ -1,0 +1,9 @@
+# this is the github pages configuration file 
+tile: CRCP 3320 Notes - Fall 2024 
+description: Notes Site for CRCP 3320 for Fall 2024 term.
+
+#paste Cayman theme from github pages 
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme 
+
