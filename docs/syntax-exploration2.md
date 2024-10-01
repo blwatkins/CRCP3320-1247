@@ -31,7 +31,7 @@
 
 ### Checklist 
 
-- [ ] list item 
+[ ] list item 
 - [ ] list item 
     - [ ] nested list item 
 - [ ] list item 
