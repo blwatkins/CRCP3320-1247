@@ -8,6 +8,13 @@
 
 [Links](./stuff/links.md)
 
+[Links URL with HTML extention](https://camerontofani.github.io/CRCP3320-1247/stuff/links.html)
+
+
+[Links URL with MD extention](https://camerontofani.github.io/CRCP3320-1247/stuff/links.md)
+
+
+
 
 
 
