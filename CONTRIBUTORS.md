@@ -16,4 +16,4 @@
 
 [Sophie Knox](https://github.com/SoKnox)
 
-[Makayla Alston](https://github.com/Makayla-A)
+[Makayla Alston](https://github.com/Makayla-A) 
