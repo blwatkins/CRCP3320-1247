@@ -14,4 +14,4 @@
 
 [Tanner Shepherd](https://github.com/tzshepherd)
 
-[Sophie Knox](https://github.com/your-username)
+[Sophie Knox](https://github.com/SoKnox)
