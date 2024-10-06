@@ -14,4 +14,6 @@
 
 [Tanner Shepherd](https://github.com/tzshepherd)
 
+[Sophie Knox](https://github.com/SoKnox)
+
 [Makayla Alston](https://github.com/Makayla-A)
