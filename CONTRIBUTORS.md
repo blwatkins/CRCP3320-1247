@@ -13,3 +13,5 @@
 [Prescott Lau](https://github.com/bikeracer9)
 
 [Tanner Shepherd](https://github.com/tzshepherd)
+
+[Makayla Alston](https://github.com/Makayla-A)
