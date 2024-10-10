@@ -25,3 +25,5 @@
 [Makayla Alston](https://github.com/Makayla-A)
 
 [Karis Park](https://github.com/khpark9)
+
+[Bailey Stern](https://github.com/BaileyStern)
