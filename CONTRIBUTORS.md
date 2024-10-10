@@ -22,6 +22,4 @@
 
 [Cameron Tofani](https://github.com/camerontofani)
 
-[Makayla Alston](https://github.com/Makayla-A)
-
-[Karis Park](https://github.com/khpark9)
+[Benjamin Omoregbe](https://github.com/thebenjii)
