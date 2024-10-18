@@ -26,4 +26,6 @@
 
 [Karis Park](https://github.com/khpark9)
 
+[Jaye Ryden](https://github.com/jayeryden)
+
 [Bailey Stern](https://github.com/BaileyStern)
