@@ -17,3 +17,5 @@
 ✴️ [Sophie Knox](https://soknox.github.io/)
 
 ***[Maggie Nguyen](https://maggient.github.io/)***
+
+***[Hali Murphy](file:///Users/halimurphy/Desktop/Website-Repository/GitHub_Website/index.html)***
