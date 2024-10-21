@@ -25,3 +25,5 @@
 ***[Jaye Ryden](https://jayeryden.github.io/JayeRyden-Portfolio/)***
 
 [🪷 isabelle jeanjean](https://koscheiii.github.io/CRCP3320-Notes/)
+
+***[Hali Murphy](https://halimurph.github.io/Hali_Web/)***
