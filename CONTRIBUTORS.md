@@ -4,6 +4,7 @@
 
 [isabelle jeanjean](https://github.com/koscheiii)
 
+<<<<<<< HEAD
 [maria murad](https://github.com/mariamuradd)
 
 [Lizzy Mackenroth](https://github.com/lmackenroth)
@@ -29,3 +30,6 @@
 [Jaye Ryden](https://github.com/jayeryden)
 
 [Bailey Stern](https://github.com/BaileyStern)
+=======
+[🪷 isabelle jeanjean](https://koscheiii.github.io/CRCP3320-Notes/)
+>>>>>>> Added emoji and updated link
