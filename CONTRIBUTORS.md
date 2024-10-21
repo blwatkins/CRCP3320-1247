@@ -29,3 +29,5 @@
 [Jaye Ryden](https://github.com/jayeryden)
 
 [Bailey Stern](https://github.com/BaileyStern)
+
+[Benjamin Omoregbe](https://github.com/thebenjii)
