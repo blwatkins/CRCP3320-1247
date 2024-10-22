@@ -25,3 +25,5 @@
 ***[Jaye Ryden](https://jayeryden.github.io/JayeRyden-Portfolio/)***
 
 [🪷 isabelle jeanjean](https://koscheiii.github.io/CRCP3320-Notes/)
+
+🌉[Bailey Stern](https://baileystern.github.io)
