@@ -18,4 +18,4 @@
 
 ***[Maggie Nguyen](https://maggient.github.io/)***
 
-***[Hali Murphy](https://halimurphy.github.io)***
+***[Hali Murphy]((https://halimurph.github.io/Website-Repository.github.io/)***
